@@ -10,7 +10,7 @@ start the selenium-server
 java -jar selenium-server-standalone-3.3.1.jar
 ```
 
-test its working by runing each example (open another cmd prompt)
+test its working by running each example (open another cmd prompt)
 ```bash
 php example-chrome.php
 php example-firefox.php
