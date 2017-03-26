@@ -1,9 +1,6 @@
-chromedriver.exe
-chromedriver_win32.zip
-composer.json
+composer-setup.php
+phpunit-6.0.phar
 composer.lock
 composer.phar
-geckodriver-v0.15.0-win64.zip
-geckodriver.exe
-selenium-server-standalone-3.3.1.jar
+selenium-server
 vendor

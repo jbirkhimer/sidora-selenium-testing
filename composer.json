@@ -1,0 +1,15 @@
+{
+    "require": {
+        "facebook/webdriver": "^1.4",
+		"phpunit/phpunit": "*"
+    },
+	"require-dev": {
+        "facebook/webdriver": "^1.4",
+		"phpunit/phpunit": "*"
+	},
+	"autoload": {
+        "psr-0": {
+            "exampleTests": ""
+        }
+    }
+}
